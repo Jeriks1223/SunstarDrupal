@@ -19,6 +19,15 @@ ul, ol, li {
   font-size: 12px;
 }
 
+.header_top1 {
+  background-color: #FFFFFF;
+  padding: 1px 150px;
+  color: #ffd20e;
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+}
+
+
 .header_middle {
   background-color: #ffd20e;
   padding: 40px 150px 30px 150px;
